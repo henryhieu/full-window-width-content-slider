@@ -74,3 +74,4 @@ jQuery tools scrollable full window width plugin
     });
   
   Include the easing js file if you want a none default easing.
+  Include the easing js file if you want a none default easing.
