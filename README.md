@@ -73,4 +73,5 @@ jQuery tools scrollable full window width plugin
       width: 960 // If you need a static width
     });
   
+  Include the easing js file if you want a none default easing. <br>
   Include the easing js file if you want a none default easing.
